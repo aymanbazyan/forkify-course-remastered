@@ -1,7 +1,7 @@
 # Forkify Project
 
 Recipe application made for learning from jonas schmeddman's js course,
-added some stuff:-
+added some extra stuff:-
 1-last and first page button
 2-page number
 3-sort ingredients button
